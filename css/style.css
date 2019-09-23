@@ -65,14 +65,14 @@ body {
     margin: 1% 1%;
     width: 48%;
   }
-
+}
 
 @media screen and (min-width: 991px) {
   .container {
     width: 70%;
     margin: 0 auto;
   }
-}
+
   .preview {
     background-size: cover;
     float: left;
@@ -80,13 +80,14 @@ body {
     margin: 2em 1%;
     width: 25%;
   }
+}
 
   @media screen and (min-width: 1199px) {
     .container {
       width: 35%;
       margin: 0 auto;
     }
-  }
+
     .preview {
       background-size: cover;
       float: left;
@@ -94,3 +95,4 @@ body {
       margin: 2em 1%;
       width: 23%;
     }
+  }
